@@ -1,3 +1,6 @@
 # CB Scenario Overview
-The word doc has the explanation of the code samples submitted. 
+The Word Doc has the scnario overview, as well as my design thoughts and assumptions. It contains the context for the sql file and data access class. 
+
+Thanks! 
+
 
